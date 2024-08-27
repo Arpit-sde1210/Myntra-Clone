@@ -1,2 +1,2 @@
 # Myntra Clone
- Myntra Clone using HTML and CSS
+This project is a front-end clone of Myntra, a popular Indian e-commerce website specializing in fashion and lifestyle products. The clone replicates key functionalities, including user authentication, product browsing, filtering, and a responsive shopping cart. The project showcases my proficiency in front-end development with modern frameworks, as well as my understanding of backend services and database management to create a seamless user experience.
